@@ -1,12 +1,11 @@
 {
-  "name": "nestjs-twilio",
+  "name": "@maliffic/nestjs-twilio",
   "version": "1.0.2",
   "description": "Injectable Twilio client for Nestjs",
   "license": "MIT",
   "author": {
-    "name": "Lazar Karic",
-    "email": "kadzajr@gmail.com",
-    "url": "https://lkaric.tech"
+    "email": "crucifixx25@gmail.com",
+    "name": "Maliffic"
   },
   "repository": "https://github.com/Maliffic/nestjs-twilio",
   "bugs": "https://github.com/Maliffic/nestjs-twilio/issues",
