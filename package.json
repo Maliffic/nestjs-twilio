@@ -8,8 +8,8 @@
     "email": "kadzajr@gmail.com",
     "url": "https://lkaric.tech"
   },
-  "repository": "https://github.com/rejvban/nestjs-twilio",
-  "bugs": "https://github.com/rejvban/nestjs-twilio/issues",
+  "repository": "https://github.com/Maliffic/nestjs-twilio",
+  "bugs": "https://github.com/Maliffic/nestjs-twilio/issues",
   "private": false,
   "keywords": [
     "nestjs",
