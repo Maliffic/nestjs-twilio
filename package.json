@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@nestjs/common": "7.6.5",
-    "@nestjs/core": "7.6.5",
+    "@nestjs/core": "7.6.11",
     "@nestjs/testing": "7.6.5",
     "@types/jest": "26.0.20",
     "@types/node": "14.14.21",
@@ -64,7 +64,7 @@
   },
   "peerDependencies": {
     "@nestjs/common": "7.6.5",
-    "@nestjs/core": "7.6.5",
+    "@nestjs/core": "7.6.11",
     "twilio": "3.55.0"
   },
   "publishConfig": {
