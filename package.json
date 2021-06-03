@@ -45,7 +45,7 @@
     "@nestjs/core": "7.6.17",
     "@nestjs/testing": "7.6.17",
     "@types/jest": "26.0.23",
-    "@types/node": "15.6.2",
+    "@types/node": "15.12.0",
     "@types/twilio": "^3.19.3",
     "@typescript-eslint/eslint-plugin": "^4.26.0",
     "@typescript-eslint/parser": "^4.26.0",
