@@ -1,6 +1,6 @@
 {
   "name": "@maliffic/nestjs-twilio",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Injectable Twilio client for Nestjs",
   "license": "MIT",
   "author": {
@@ -39,8 +39,6 @@
     "prepare": "yarn build:dist"
   },
   "devDependencies": {
-    "@nestjs/common": "7.6.17",
-    "@nestjs/core": "7.6.17",
     "@nestjs/common": "7.6.17",
     "@nestjs/core": "7.6.17",
     "@nestjs/testing": "7.6.17",
