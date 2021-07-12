@@ -39,7 +39,7 @@
     "prepare": "yarn build:dist"
   },
   "devDependencies": {
-    "@nestjs/common": "8.0.0",
+    "@nestjs/common": "8.0.1",
     "@nestjs/core": "8.0.0",
     "@nestjs/testing": "8.0.0",
     "@types/jest": "26.0.24",
@@ -63,7 +63,7 @@
     "typescript": "4.3.5"
   },
   "peerDependencies": {
-    "@nestjs/common": "8.0.0",
+    "@nestjs/common": "8.0.1",
     "@nestjs/core": "8.0.0",
     "twilio": "3.65.0"
   },
